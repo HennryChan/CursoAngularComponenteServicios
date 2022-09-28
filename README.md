@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# CursoAngularComponenteServicios
+Es un proyecto de unidad 4 del modulo 10
+>>>>>>> 669b71d7eca4fd2534961fb831c63d71ab2b811f
